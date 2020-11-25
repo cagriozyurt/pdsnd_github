@@ -1,4 +1,9 @@
+<<<<<<< .merge_file_a14780
 # First change in bikeshare.py in documentation branch
+=======
+#In refactoring, first change is done
+#In refactoring, second change is done
+>>>>>>> .merge_file_a14636
 import time
 import pandas as pd
 
